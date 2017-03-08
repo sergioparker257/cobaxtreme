@@ -1,0 +1,39 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.button{
+	font-size: 80px;
+	text-decoration: none;
+	margin: 20px 20px;
+	display: inline-block;
+	background: green;
+	color: #fff;
+	padding: 20px 20px
+    box-shadow: 0px 2px 0px #000;
+    border-radius: 50px
+}
+
+.button:hover{
+	box-shadow: 0px 2px 0px #000;
+	background: #ccc;
+
+}
+
+
+
+.contenido{
+	width: 1433px;
+	height: 1000px;
+	float: left;
+	/*background:#000;*/
+	margin-top: 10px;
+	margin-right: 10px
+	margin-bottom: 10px;
+	text-align: center;
+}
+.contenedor{
+	background:#fff;
+}
+}
